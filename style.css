@@ -1753,7 +1753,7 @@ img{
 	margin: 0px 3px;
 }
 .f-widgets-single .f-social span a {
-	background: #05202F;
+	background: #A9A9A9;
 	width: 40px;
 	height: 40px;
 	display: flex;
@@ -1870,6 +1870,7 @@ img{
 }
 .footer-bottom {
 	background: #092635;
+
 }
 .copy-text p {
 	color: #ddd;
