@@ -1741,6 +1741,7 @@ img{
 */
 .footer {
 	background: #0B2B3C;
+	justify-content: space-between;
 }
 .f-widgets-single p {
 	margin-bottom: 15px;
