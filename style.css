@@ -2727,7 +2727,7 @@ img{
 }
 
 .port{
-	width: 250px;
+	width: 100%;
 	height: 250px;
 	object-fit: cover;
 }
@@ -2757,7 +2757,7 @@ img{
 */
 .portfolio-item {
 	width: 100%;
-	height: 100%;
+	height: 250px;
 	overflow: hidden;
 	position: relative;
 }
@@ -2777,7 +2777,7 @@ img{
 	transform: scale(0);
 }
 .portfolio-item:hover .portfolio-overly .pv_full{
-	transform: scale(1.0);
+	transform: scale();
 }
 .portfolio-overly a {
 	display: flex;
